@@ -5,7 +5,8 @@ import express from 'express'
 
 
 
-//valtoztatas proba
+//valtoztatas proba masodszor
+//valtoztatas proba masodszor
 import morgan from 'morgan'
 import bodyParser from 'body-parser' 
 import { userRouter } from './routes/user.js'
