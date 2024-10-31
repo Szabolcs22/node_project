@@ -2,6 +2,10 @@ import express from 'express'
 //import {createUser, addUser,getUsers, deleteUser, updateUser } from './db.js'
 //import {createCategories, addCategory, getCategories, deleteCategory, updateCategory} from './db.js'
 //import { createCikkek, addCikk, getCikkek,deleteCikk ,deleteCikktabla} from './db.js'
+
+
+
+//valtoztatas proba
 import morgan from 'morgan'
 import bodyParser from 'body-parser' 
 import { userRouter } from './routes/user.js'
